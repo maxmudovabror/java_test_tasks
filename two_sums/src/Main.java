@@ -20,3 +20,5 @@ public class Main {
         System.out.println("No pair found.");
     }
 }
+// Bu yerga izoh yoziladi
+
